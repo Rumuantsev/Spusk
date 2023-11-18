@@ -1,0 +1,11 @@
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\bin\Debug\La.exe.config
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\bin\Debug\La.exe
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\bin\Debug\La.pdb
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\Lab5.Form1.resources
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\La.Properties.Resources.resources
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\La.exe
+C:\Users\ars13\OneDrive\Рабочий стол\Lab5\La\obj\Debug\La.pdb
